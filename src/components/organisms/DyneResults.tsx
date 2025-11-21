@@ -11,16 +11,16 @@ type DyneResultsProps = {
 const DyneResults: React.FC<DyneResultsProps> = ({ result }) => {
   const [selectedDyne, setSelectedDyne] = useState<Dyne | null>(null);
 
-  // Filter for “andre dyner” – vi ekskluderer den anbefalede dyne
+
   const otherDyner = products.filter((d) => d.id !== result.id);
 
   return (
     <div style={{ textAlign: "center", padding: 20 }}>
 
-      {/* Resultatoverskrift */}
+
       <h1 style={{ margin: "20px 0" }}>Din anbefalede dyne</h1>
 
-      {/* Anbefalet dyne */}
+
       <DyneCard dyne={result} />
 
       {/* Hvis man har valgt en dyne til sammenligning */}
