@@ -32,12 +32,12 @@ const QuizFlow: React.FC = () => {
     );
   }
 
-  // handle click når bruger vælger en option
+
   const handleClick = (option: QuizOption) => {
     // gem svaret
     setAnswers((prev) => ({ ...prev, [current]: option.label }));
 
-    // hvis option har et resultat
+
     if (option.result) {
       const resultString =
         typeof option.result === "function"
@@ -48,13 +48,13 @@ const QuizFlow: React.FC = () => {
       return;
     }
 
-    // ellers gå til næste node
+
     if (option.next) {
       setCurrent(option.next);
       return;
     }
 
-    // fallback
+
     setResult("Ukendt resultat");
   };
 
