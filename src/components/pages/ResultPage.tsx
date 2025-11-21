@@ -1,5 +1,5 @@
 import React from "react";
-import DyneResults from "../organisms/DyneResults"; // <-- brug DyneResults
+import DyneResults from "../organisms/DyneResults"; 
 import products from "../../data/dyner.json";
 import type { Dyne } from "../../data/types";
 
@@ -12,7 +12,7 @@ const ResultPage: React.FC<ResultPageProps> = ({ productId }) => {
 
   if (!dyne) return <p>Fejl: Dynen kunne ikke findes</p>;
 
-  return <DyneResults result={dyne} />; // <-- send dyne til DyneResults
+  return <DyneResults result={dyne} />; 
 };
 
 export default ResultPage;
