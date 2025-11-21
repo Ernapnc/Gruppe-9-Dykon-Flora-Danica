@@ -1,0 +1,350 @@
+[
+    {
+        "id": "orkide-135-200",
+        "name": "Orkidé Edderdunsdyne",
+        "fillType": "Edderdun",
+        "warmth": "Ekstra varm",
+        "dyneType": "enkel",
+        "dimensions": "135x200",
+        "fillWeight": 550,
+        "season": "vinter",
+        "coolingEffect": "nej",
+        "luxury": "luksus",
+        "weightPreference": "let",
+        "garanti": "15 år",
+
+        "image": "/img/orkide.jpg",
+        "description": "Denne eksklusive edderdunsdyne anbefales for sin unikke varme og isolering. Håndplukkede edderdun fra Nordatlanten omslutter dig let og behageligt hele natten. Allergivenlig, ren og uden skadelige stoffer. Perfekt til dig, der vil have maksimal komfort og kvalitet, samtidig med at du passer på naturen."
+    },
+    {
+        "id": "orkide-135-220",
+        "name": "Orkidé Edderdunsdyne",
+        "fillType": "Edderdun",
+        "warmth": "Ekstra varm",
+        "dyneType": "enkel",
+        "dimensions": "135x220",
+        "fillWeight": 600,
+        "season": "vinter",
+        "coolingEffect": "nej",
+        "luxury": "luksus",
+        "weightPreference": "let",
+        "garanti": "15 år",
+
+        "image":"/img/orkide.jpg",
+        "description":"Denne eksklusive edderdunsdyne anbefales for sin unikke varme og isolering. Håndplukkede edderdun fra Nordatlanten omslutter dig let og behageligt hele natten. Allergivenlig, ren og uden skadelige stoffer. Perfekt til dig, der vil have maksimal komfort og kvalitet, samtidig med at du passer på naturen."
+    },
+    {
+        "id": "orkide-200-220",
+        "name": "Orkidé Edderdunsdyne",
+        "fillType": "Edderdun",
+        "warmth": "Ekstra varm",
+        "dyneType": "dobbel",
+        "dimensions": "200x220",
+        "fillWeight": 900,
+        "season": "vinter",
+        "coolingEffect": "nej",
+        "luxury": "luksus",
+        "weightPreference": "let",
+        "garanti": "15 år",
+
+        "image":"/img/orkide.jpg",
+        "description":"Denne eksklusive edderdunsdyne anbefales for sin unikke varme og isolering. Håndplukkede edderdun fra Nordatlanten omslutter dig let og behageligt hele natten. Allergivenlig, ren og uden skadelige stoffer. Perfekt til dig, der vil have maksimal komfort og kvalitet, samtidig med at du passer på naturen."
+    },
+
+
+
+
+    {
+        "id": "tusind-sval-135-200",
+        "name": "Tusindefryd Sval",
+        "fillType": "Moskusdun",
+        "warmth": "Sval",
+        "dyneType": "enkel",
+        "dimensions": "135x200",
+        "fillWeight": 240,
+        "season": "Sommer",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image": "/img/tusindsval.jpg",
+        "description": "Tusindfryd Sval er den ideelle dyne til dig, der altid har det varmt eller sover i et varmt soveværelse. Fyldt med 100% hvide europæiske moskusdun, er den let, luftig og allergivenlig, men stadig fyldig nok til at give behagelig varme hele natten. Kvalitetsmaterialer, jacquardvævet bomuld og en praktisk bomuldstaske gør den til et holdbart og luksuriøst valg, der anbefales for sin komfort og lethed."
+    },
+    {
+        "id": "tusind-sval-135-220",
+        "name": "Tusindefryd Sval",
+        "fillType": "Moskusdun",
+        "warmth": "Sval",
+        "dyneType": "enkel",
+        "dimensions": "135x220",
+        "fillWeight": 270,
+        "season": "Sommer",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image": "/img/tusindsval.jpg",
+        "description": "Tusindfryd Sval er den ideelle dyne til dig, der altid har det varmt eller sover i et varmt soveværelse. Fyldt med 100% hvide europæiske moskusdun, er den let, luftig og allergivenlig, men stadig fyldig nok til at give behagelig varme hele natten. Kvalitetsmaterialer, jacquardvævet bomuld og en praktisk bomuldstaske gør den til et holdbart og luksuriøst valg, der anbefales for sin komfort og lethed."
+    },
+    {
+        "id": "tusind-sval-200-220",
+        "name": "Tusindefryd Sval",
+        "fillType": "Moskusdun",
+        "warmth": "Sval",
+        "dyneType": "dobbel",
+        "dimensions": "200x220",
+        "fillWeight": 400,
+        "season": "Sommer",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image": "/img/tusindsval.jpg",
+        "description": "Tusindfryd Sval er den ideelle dyne til dig, der altid har det varmt eller sover i et varmt soveværelse. Fyldt med 100% hvide europæiske moskusdun, er den let, luftig og allergivenlig, men stadig fyldig nok til at give behagelig varme hele natten. Kvalitetsmaterialer, jacquardvævet bomuld og en praktisk bomuldstaske gør den til et holdbart og luksuriøst valg, der anbefales for sin komfort og lethed."
+    },
+
+
+
+
+    {
+        "id": "tusind-varm-135-200",
+        "name": "Tusindefryd Varm",
+        "fillType": "Moskusdun",
+        "warmth": "Varm",
+        "dyneType": "enkel",
+        "dimensions": "135x200",
+        "fillWeight": 550,
+        "season": "Helårs",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image": "/img/tusindvarm.jpg",
+        "description": "Tusindfryd Varm er perfekt til dig, der fryser af og til eller sover i et lunt soveværelse. Fyldt med 100% hvide europæiske moskusdun giver den enestående isolering og behagelig varme hele natten. Kassetter med kanalvægge sikrer god ventilation, og jacquardvævet bomuld samt en flot bomuldstaske gør dynen til et holdbart og luksuriøst valg, anbefalet for både komfort og kvalitet."
+    },
+    {
+        "id": "tusind-varm-135-220",
+        "name": "Tusindefryd Varm",
+        "fillType": "Moskusdun",
+        "warmth": "Varm",
+        "dyneType": "enkel",
+        "dimensions": "135x220",
+        "fillWeight": 605,
+        "season": "Helårs",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image": "/img/tusindvarm.jpg",
+        "description": "Tusindfryd Varm er perfekt til dig, der fryser af og til eller sover i et lunt soveværelse. Fyldt med 100% hvide europæiske moskusdun giver den enestående isolering og behagelig varme hele natten. Kassetter med kanalvægge sikrer god ventilation, og jacquardvævet bomuld samt en flot bomuldstaske gør dynen til et holdbart og luksuriøst valg, anbefalet for både komfort og kvalitet."
+    },
+    {
+        "id": "tusind-varm-200-220",
+        "name": "Tusindefryd Varm",
+        "fillType": "Moskusdun",
+        "warmth": "Varm",
+        "dyneType": "dobbel",
+        "dimensions": "200x220",
+        "fillWeight": 900,
+        "season": "Helårs",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image": "/img/tusindvarm.jpg",
+        "description": "Tusindfryd Varm er perfekt til dig, der fryser af og til eller sover i et lunt soveværelse. Fyldt med 100% hvide europæiske moskusdun giver den enestående isolering og behagelig varme hele natten. Kassetter med kanalvægge sikrer god ventilation, og jacquardvævet bomuld samt en flot bomuldstaske gør dynen til et holdbart og luksuriøst valg, anbefalet for både komfort og kvalitet."
+    },
+
+
+
+
+    {
+        "id": "tusind-ekstra-varm-135-200",
+        "name": "Tusindefryd Ekstra Varm",
+        "fillType": "Moskusdun",
+        "warmth": "Ekstra Varm",
+        "dyneType": "enkel",
+        "dimensions": "135x200",
+        "fillWeight": 800,
+        "season": "vinter",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image":"/img/tusindvarm.jpg",
+        "description": "Tusindfryd Ekstra Varm er ideel til dig, der ofte fryser eller sover i et koldt soveværelse. Fyldt med 100% hvide europæiske moskusdun giver den optimal isolering og behagelig varme hele natten. Kassetter med kanalvægge uden ventilationsfelter sikrer maksimal varme, mens jacquardvævet bomuld og en flot bomuldstaske gør dynen til et luksuriøst og holdbart valg, anbefalet for komfort og kvalitet."
+    },
+    {
+        "id": "tusind-ekstra-varm-135-220",
+        "name": "Tusindefryd Ekstra Varm",
+        "fillType": "Moskusdun",
+        "warmth": "Ekstra Varm",
+        "dyneType": "enkel",
+        "dimensions": "135x220",
+        "fillWeight": 875,
+        "season": "vinter",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image":"/img/tusindvarm.jpg",
+        "description": "Tusindfryd Ekstra Varm er ideel til dig, der ofte fryser eller sover i et koldt soveværelse. Fyldt med 100% hvide europæiske moskusdun giver den optimal isolering og behagelig varme hele natten. Kassetter med kanalvægge uden ventilationsfelter sikrer maksimal varme, mens jacquardvævet bomuld og en flot bomuldstaske gør dynen til et luksuriøst og holdbart valg, anbefalet for komfort og kvalitet."
+    },
+    {
+        "id": "tusind-ekstra-varm-240-220",
+        "name": "Tusindefryd Ekstra Varm",
+        "fillType": "Moskusdun",
+        "warmth": "Ekstra Varm",
+        "dyneType": "dobbel",
+        "dimensions": "240x220",
+        "fillWeight": 1580,
+        "season": "vinter",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image":"/img/tusindvarm.jpg",
+        "description": "Tusindfryd Ekstra Varm er ideel til dig, der ofte fryser eller sover i et koldt soveværelse. Fyldt med 100% hvide europæiske moskusdun giver den optimal isolering og behagelig varme hele natten. Kassetter med kanalvægge uden ventilationsfelter sikrer maksimal varme, mens jacquardvævet bomuld og en flot bomuldstaske gør dynen til et luksuriøst og holdbart valg, anbefalet for komfort og kvalitet."
+    },
+
+
+
+
+    {
+        "id": "erantis-135-200",
+        "name": "Erantis Sval",
+        "fillType": "Moskusdun",
+        "warmth": "Sval",
+        "dyneType": "enkel",
+        "dimensions": "135x200",
+        "fillWeight": 400,
+        "season": "Sommer",
+        "coolingEffect": "ja",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image": "/img/erantissval.jpg",
+        "description": "Erantis Sval er perfekt til dig, der altid har det varmt eller sover i et varmt soveværelse. Fyldt med 90% hvide europæiske moskusdun og et PCM-kølende lag giver dynen sval komfort hele natten, samtidig med at den føles fyldig og luksuriøs. Jacquardvævet bomuld og en flot opbevaringstaske gør dynen til et holdbart og anbefalet valg for både komfort og kvalitet."
+    },
+    {
+        "id": "erantis-135-220",
+        "name": "Erantis Sval",
+        "fillType": "Moskusdun",
+        "warmth": "Sval",
+        "dyneType": "enkel",
+        "dimensions": "135x220",
+        "fillWeight": 440,
+        "season": "Sommer",
+        "coolingEffect": "ja",
+        "luxury": "praktisk",
+        "weightPreference": "let",
+        "garanti": "10 år",
+
+        "image": "/img/erantissval.jpg",
+        "description": "Erantis Sval er perfekt til dig, der altid har det varmt eller sover i et varmt soveværelse. Fyldt med 90% hvide europæiske moskusdun og et PCM-kølende lag giver dynen sval komfort hele natten, samtidig med at den føles fyldig og luksuriøs. Jacquardvævet bomuld og en flot opbevaringstaske gør dynen til et holdbart og anbefalet valg for både komfort og kvalitet."
+    },
+
+
+
+
+    {
+        "id": "anemone-sval-135-200",
+        "name": "Anemone Sval",
+        "fillType": "90% Moskusdun, 10% fjer",
+        "warmth": "Sval",
+        "dyneType": "enkel",
+        "dimensions": "135x200",
+        "fillWeight": 240,
+        "season": "Sommer",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "fyldig",
+        "garanti": "10 år",
+
+        "image": "/img/anemonesval.jpg",
+        "description": "Anemone Sval er ideel til dig, der altid har det varmt eller sover i et varmt soveværelse. Fyldt med 90% hvide europæiske moskusdun og fremstillet med ventilationskassetter, giver dynen let, luftig komfort uden at blive tung. Jacquardvævet bomuld med satin kant og en flot opbevaringstaske gør dynen til et holdbart og anbefalet valg for komfort og kvalitet."
+    },
+    {
+        "id": "anemone-sval-135-220",
+        "name": "Anemone Sval",
+        "fillType": "90% Moskusdun, 10% fjer",
+        "warmth": "Sval",
+        "dyneType": "enkel",
+        "dimensions": "135x220",
+        "fillWeight": 270,
+        "season": "Sommer",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "fyldig",
+        "garanti": "10 år",
+
+        "image": "/img/anemonesval.jpg",
+        "description": "Anemone Sval er ideel til dig, der altid har det varmt eller sover i et varmt soveværelse. Fyldt med 90% hvide europæiske moskusdun og fremstillet med ventilationskassetter, giver dynen let, luftig komfort uden at blive tung. Jacquardvævet bomuld med satin kant og en flot opbevaringstaske gør dynen til et holdbart og anbefalet valg for komfort og kvalitet."
+    },
+
+
+
+
+    {
+        "id": "anemone-varm-135-200",
+        "name": "Anemone Varm",
+        "fillType": "90% Moskusdun, 10% fjer",
+        "warmth": "Varm",
+        "dyneType": "enkel",
+        "dimensions": "135x200",
+        "fillWeight": 500,
+        "season": "Helårs",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "fyldig",
+        "garanti": "10 år",
+
+        "image": "/img/anemonevarm.jpg",
+        "description": "Anemone Varm er perfekt til dig, der fryser af og til eller sover i et lunt soveværelse. Fyldt med 90% hvide europæiske moskusdun og fremstillet med kassetter uden ventilationsfelter, sikrer dynen god isolering og behagelig varme hele natten. Jacquardvævet bomuld med satin kant og en flot opbevaringsstaske gør dynen til et holdbart og anbefalet valg for komfort og kvalitet."
+    },
+    {
+        "id": "anemone-varm-135-220",
+        "name": "Anemone Varm",
+        "fillType": "90% Moskusdun, 10% fjer",
+        "warmth": "Varm",
+        "dyneType": "enkel",
+        "dimensions": "135x220",
+        "fillWeight": 550,
+        "season": "Helårs",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "fyldig",
+        "garanti": "10 år",
+
+        "image": "/img/anemonevarm.jpg",
+        "description": "Anemone Varm er perfekt til dig, der fryser af og til eller sover i et lunt soveværelse. Fyldt med 90% hvide europæiske moskusdun og fremstillet med kassetter uden ventilationsfelter, sikrer dynen god isolering og behagelig varme hele natten. Jacquardvævet bomuld med satin kant og en flot opbevaringsstaske gør dynen til et holdbart og anbefalet valg for komfort og kvalitet."
+    },
+    {
+        "id": "anemone-varm-200-220",
+        "name": "Anemone Varm",
+        "fillType": "90% Moskusdun, 10% fjer",
+        "warmth": "Varm",
+        "dyneType": "dobbel",
+        "dimensions": "200x220",
+        "fillWeight": 815,
+        "season": "Helårs",
+        "coolingEffect": "nej",
+        "luxury": "praktisk",
+        "weightPreference": "fyldig",
+        "garanti": "10 år",
+
+        "image": "/img/anemonevarm.jpg",
+        "description": "Anemone Varm er perfekt til dig, der fryser af og til eller sover i et lunt soveværelse. Fyldt med 90% hvide europæiske moskusdun og fremstillet med kassetter uden ventilationsfelter, sikrer dynen god isolering og behagelig varme hele natten. Jacquardvævet bomuld med satin kant og en flot opbevaringsstaske gør dynen til et holdbart og anbefalet valg for komfort og kvalitet."
+    }
+
+]
