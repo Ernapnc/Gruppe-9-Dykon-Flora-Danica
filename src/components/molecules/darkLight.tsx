@@ -12,8 +12,9 @@
 import { useEffect, useState } from "react"
 
 
+
 const LysKnap = () => {
-    const [isDarkTheme, setDarkTheme] = useState<boolean>(false);
+    const [isDarkTheme, setDarkTheme] = useState<boolean>(true);
 
     useEffect (() => {
         let theme = localStorage.getItem("theme");
@@ -27,9 +28,9 @@ const LysKnap = () => {
         }, [isDarkTheme]
     );
 //når den er true, så vil den tænde for darkmode, hvis falsk vil den slukke. 
-    const lysVærdi = () => {
-        setDarkTheme(! isDarkTheme);
- }
+    function lysVærdi() {
+        setDarkTheme(!isDarkTheme);
+    }
     return <>
     <label>
         <input type="checkbox" checked={isDarkTheme} onClick={lysVærdi} />
