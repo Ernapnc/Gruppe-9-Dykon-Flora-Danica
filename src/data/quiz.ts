@@ -117,8 +117,8 @@ export const QUIZ: Record<string, QuizNode> = {
       dobbelkval: {
     question: "Hvad vægter du højest?",
     options: [
-      { label: "Eksklusiv", result: "tusind-varm-200-220" },
-      { label: "God kvalitet og tilgængelig pris", result: "anemone-varm-200-220" }
+      { label: "Eksklusiv kvalitet", result: "tusind-varm-200-220" },
+      { label: "En kombination mellem kvalitet og en tilgængelig pris", result: "anemone-varm-200-220" }
     ]
 }
 };

@@ -12,7 +12,7 @@ const ResultPage: React.FC<ResultPageProps> = ({ productId }) => {
 
   if (!dyne) return <p>Fejl: Dynen kunne ikke findes</p>;
 
-  return <DyneResults result={dyne} />; 
+  return <DyneResults result={dyne} />;
 };
 
 export default ResultPage;
