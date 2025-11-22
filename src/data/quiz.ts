@@ -20,14 +20,14 @@ export const QUIZ: Record<string, QuizNode> = {
       { label: "Dobbel", next: "dobbelt" }
     ]
   },
-  enkelt: {
+  enkelt: { //den burde jo så sortere efter det? ellers giver det vel ikke mening?
     question: "Ønsker du ekstra længde på din dyne?",
     options: [
       { label: "Ja", next: "temperatur" },
       { label: "Nej", next: "korttemp" }
     ]
   },
-  dobbelt: {
+  dobbelt: { //er det ikke lidt det samme som den ovenfor?
     question: "Ønsker du ekstra bredde på din dobbeltdyne?",
     options: [
       { label: "Ja", result: "tusind-ekstra-varm-240-220" },
@@ -49,7 +49,7 @@ export const QUIZ: Record<string, QuizNode> = {
       { label: "Nej", next: "fyldsval" }
     ]
 },
-    fyldsval: {
+    fyldsval: { //hvorfor er spørgsmålene der 2 gange?
     question: "Hvordan foretrækker du din dyne?",
     options: [
       { label: "Let og blød", result: "tusind-sval-135-220" },

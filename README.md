@@ -75,7 +75,7 @@ i filen indeholder alle dyner:
   "garanti": "15 år"
 }``
 
-# Limitations
+## Limitations
 Projektet har flere begrænsninger, da der ikke er direkte adgang til produkterne og deres præcise indkodning i selve virksomheden. Der er desuden også begrænsninger ved ikke at have adgang til forhandleren og deres system, da man ellers kunne sætte en dynamisk prisudregning på, som skiftede med forhandlerens ændringer. 
 Man får ikke adgang til et direkte køb efter man får resultatet, der er derfor mangel på en CTA, som kunne forbedre oplevelsen for brugeren. 
 
