@@ -1,10 +1,8 @@
 import React from "react";
 
 type ButtonProps = React.ButtonHTMLAttributes<HTMLButtonElement> & {
-  onClick: () => void;
   children: React.ReactNode;
   style?: React.CSSProperties;
-  disabled?: boolean;
 };
 
 const Button: React.FC<ButtonProps> = ({ onClick, children, style, disabled, ...props }) => {

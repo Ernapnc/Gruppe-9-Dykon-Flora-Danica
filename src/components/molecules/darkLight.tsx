@@ -32,12 +32,12 @@ const LysKnap = () => {
         setDarkTheme(!isDarkTheme);
     };
     return (
-        <div className="dark-toggle">
-            <label>
-                <input type="checkbox" checked={isDarkTheme} onChange={lysVærdi} />
-                <span>Dark Mode</span>
-            </label>
-        </div>
+        <>
+    <label>
+        <input type="checkbox" checked={isDarkTheme} onChange={lysVærdi} />
+        <span>Dark Mode</span>
+    </label>
+    </>
     );
 }
 
