@@ -7,27 +7,16 @@ type QuestionProps = {
   question: string;
   options: QuestionOption[];
   onSelect: (option: QuestionOption) => void;
+  returKnap?: boolean;
 };
 
 const Question: React.FC<QuestionProps> = ({ question, options, onSelect }) => {
   return (
     <div style={{ textAlign: "center", marginTop: 16 }}>
       {/* Spørgsmål label */}
-      <div
-        style={{
-          padding: "12px 24px",
-          backgroundColor: "#870338",
-          color: "white",
-          borderRadius: 6,
-          fontWeight: "bold",
-          marginBottom: 16,
-        }}
-      >
-        Spørgsmål
+      <div className ="spørgsmål-label">
+        {question}
       </div>
-
-      {/* Selve spørgsmålet */}
-      <h3 style={{ marginBottom: 24 }}>{question}</h3>
 
       {/* Knapper */}
       <div style={{ display: "flex", flexDirection: "column", gap: 12, alignItems: "center", maxWidth: 300, margin: "0 auto" }}>

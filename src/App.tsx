@@ -1,6 +1,6 @@
 
 import QuizPage from "./components/pages/QuizPage";
-import DarkLight from "./components/molecules/darkLight.tsx"
+import DarkLight from "./components/atoms/darkLight.tsx"
 
 function App() {
   return (

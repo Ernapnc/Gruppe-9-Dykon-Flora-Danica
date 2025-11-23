@@ -18,7 +18,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({ children, showHeader = true }) 
         padding: 20,
       }}
     >
-      <Logo src="/img/logo.jpg" alt="Flora Danica Logo" />
+      <Logo src="public/img/floradanicalogo.png" alt="Flora Danica Logo" className="logo-img" />
 
       {showHeader && (
         <h1 style={{ textAlign: "center", marginBottom: 24 }}>
