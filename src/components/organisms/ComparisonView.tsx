@@ -54,7 +54,7 @@ const ComparisonView: React.FC<ComparisonViewProps> = ({ dyne1, dyne2 }) => {
               key={field}
               style={{
                 backgroundColor:
-                  dyne1[field] !== dyne2[field] ? "#ffe0e0" : "transparent",
+                  dyne1[field] == dyne2[field] ? "#8F993D" : "transparent",
               }}
             >
               <strong>{labels[field]}:</strong> {dyne2[field]}

@@ -12,7 +12,6 @@
 import { useEffect, useState } from "react"
 
 
-
 const LysKnap = () => {
     const [isDarkTheme, setDarkTheme] = useState<boolean>(() => {
         try {

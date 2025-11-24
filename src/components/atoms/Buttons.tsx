@@ -21,7 +21,7 @@ const Button: React.FC<ButtonProps> = ({ onClick, children, style, disabled, ...
       }}
       disabled={disabled}
       // Synlig fokus, når man tabber
-      onFocus={(e) => (e.currentTarget.style.boxShadow = "0 0 0 3px rgba(0,0,255,0.5)")}
+      onFocus={(e) => (e.currentTarget.style.boxShadow = "0 0 0 3px rgba(20, 20, 255, 0.8)")}
       onBlur={(e) => (e.currentTarget.style.boxShadow = "none")}
     >
       {children}

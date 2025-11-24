@@ -25,7 +25,8 @@ http://localhost:..../
 4. Vær opmærksom på at åbne filen med UFT-8, da den indeholder danske tegn; æ, ø, å. 
 
 ## Features/ How to
-
+Applikationen indeholder en quiz med spørgsmål henvendt til en udvælgelse af eksisterende produkter i vores datasæt. Ved hvert valg af svarmulighederne vil man blive ledt videre til det næste relevante svar, som så ender med et resultat baseret på ens løbende svar. Dette svar bliver præsenteret med informationer om det udvalgte produkt, sammen med en mulighed for at sammenligne ens resultatsvar med andre mulige produkter. Her vælger man en af de andre produkter at sammenligne med ved at klikke på dem, dette bringer en boks frem, som giver et overblik over forskelle og ligheder på ens resultatprodukt og sammenligningsproduktet. De værdier, som matcher er markeret med grønt for overskuelighed. 
+Der er mulighed for at gå tilbage i ens quiz og ændre svar.
 
 ## Opbygning af filer
 Filerne er strukturerede i mapper, hvoraf alle vores opbyggede kodefiler ligger under "src"
@@ -45,9 +46,12 @@ Udenfor "src" er der løse filer, som har betydning for opbygningen, configureri
 - I package.json findes helt grundlæggende information om projektet.
 
 ## Accesibility considerations
-
-
-
+I applikationen kan der findes en række tilgængelighedsværktøjer. 
+- Dark mode: mulighed for at skifte de grundlæggende farver. 
+- Tastaturnavigation: brugeren kan navigere rundt på siden kun med tastaturet. 
+- Tydeliggjort markør for tastaturstyring: dette bliver markeret med blåt for synlighed. 
+- Labels og alt tekster: særligt for brugere med skærmlæser. 
+Der er mulighed for at tilføje flere værktøjer i videre udvikling. 
 
 ## Datasæt
 Alle dyner ligger i filen:

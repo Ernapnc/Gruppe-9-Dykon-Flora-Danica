@@ -1,12 +1,18 @@
 
 import QuizPage from "./components/pages/QuizPage";
-import DarkLight from "./components/atoms/darkLight.tsx"
+import LysKnap from "./components/atoms/darkLight";
+import ReusableFocusTrap from "./components/atoms/FocusTrap";
 
 function App() {
+
   return (
-    <div style={{ maxWidth: 900, margin: "0 auto", padding: 20 }}>
-      <DarkLight />
-      <QuizPage />
+    <div style={{ maxWidth: 900, margin: "0 auto", padding: 0 }}>
+        <ReusableFocusTrap initialFocusSelector="#quiz-container">
+        <LysKnap />
+        <div id="quiz-container">
+        <QuizPage />
+        </div>
+      </ReusableFocusTrap>
     </div>
   );
 }

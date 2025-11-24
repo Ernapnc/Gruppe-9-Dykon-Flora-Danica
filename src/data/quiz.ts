@@ -49,7 +49,7 @@ export const QUIZ: Record<string, QuizNode> = {
       { label: "Nej", next: "fyldsval" }
     ]
 },
-    fyldsval: { //hvorfor er spørgsmålene der 2 gange?
+    fyldsval: { 
     question: "Hvordan foretrækker du din dyne?",
     options: [
       { label: "Let og blød", result: "tusind-sval-135-220" },

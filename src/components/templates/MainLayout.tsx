@@ -16,9 +16,10 @@ const MainLayout: React.FC<MainLayoutProps> = ({ children, showHeader = true }) 
         alignItems: "center",
         justifyContent: "center",
         padding: 20,
+        boxSizing: "border-box",
       }}
     >
-      <Logo src="public/img/floradanicalogo.png" alt="Flora Danica Logo" className="logo-img" />
+      <Logo src="/img/floradanicalogo.png" alt="Flora Danica Logo" className="logo-img" />
 
       {showHeader && (
         <h1 style={{ textAlign: "center", marginBottom: 24 }}>
@@ -26,12 +27,24 @@ const MainLayout: React.FC<MainLayoutProps> = ({ children, showHeader = true }) 
         </h1>
       )}
 
-      <div style={{ width: "100%", display: "flex", flexDirection: "column", alignItems: "center" }}>
+      <div
+        style={{
+          width: "100%",
+          maxWidth: 1000,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          flex: 1,
+          padding: "0 16px",
+          boxSizing: "border-box",
+          textAlign: "center",
+        }}
+      >
         {children}
       </div>
     </div>
   );
 };
-
 export default MainLayout;
 
